@@ -8,10 +8,10 @@ The project demonstrates basic Git and GitHub collaboration, including repositor
 
 ## Project Files
 
-| File | Description |
-|------|-------------|
-| notes.txt | Contains campus notes. |
-| workflow-test.txt | Demonstrates the Git clone, push, and pull workflow. |
+|File|Description|
+|-|-|
+|notes.txt|Contains campus notes.|
+|workflow-test.txt|Demonstrates the Git clone, push, and pull workflow.|
 
 ## Getting Started
 
@@ -23,3 +23,28 @@ The project demonstrates basic Git and GitHub collaboration, including repositor
 ## Contribution
 
 Contributions and documentation improvements are welcome. Use feature branches and pull requests when contributing.
+
+
+
+
+
+
+
+
+
+\## Code Quality Guidelines
+
+
+
+When contributing to this project, follow these practices:
+
+
+
+1\. \*\*Meaningful Variable Names:\*\* Use descriptive names that make the code easy to understand.
+
+2\. \*\*Input Validation:\*\* Validate user input and prevent empty or invalid values.
+
+3\. \*\*Error Handling:\*\* Handle unexpected errors appropriately to prevent program failures.
+
+4\. \*\*Readable Code:\*\* Follow consistent formatting and maintain clear documentation.
+
